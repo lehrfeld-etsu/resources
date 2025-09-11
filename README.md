@@ -3,5 +3,5 @@ List of Cybersecurity and other resources to keep people safe in the digital wor
 
 Reporting Cybercrimes
 
-Internet Crime and Complaint Center [IC3.gov](https://www.ic3.gov/) This is an FBI sponsored outreach organization that gathers cybercrime complaints and passes these tips to the local FBI offices in impacted areas.
+- Internet Crime and Complaint Center [IC3.gov](https://www.ic3.gov/) This is an FBI sponsored outreach organization that gathers cybercrime complaints and passes these tips to the local FBI offices in impacted areas.
 
