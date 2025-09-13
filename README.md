@@ -21,3 +21,7 @@ Cyberbullying
 
 Sexting and Child Sexual Abuse Material
 
+[National Center for Missing and Exploited Children](https://www.missingkids.org/) The National Center for Missing & Exploited Children is a private, non-profit 501(c)(3) corporation whose mission is to help find missing children, reduce child sexual exploitation, and prevent child victimization. NCMEC works with families, victims, private industry, law enforcement, and the public to assist with preventing child abductions, recovering missing children, and providing services to deter and combat child sexual exploitation.
+
+
+
