@@ -1,13 +1,13 @@
 # resources
 List of Cybersecurity and other resources to keep people safe in the digital world. Find USA based resources for reporting cybercrime or talking to children about cyberbullying.
 
-Reporting Cybercrimes
+## Reporting Cybercrimes
 
 - [Internet Crime and Complaint Center](https://www.ic3.gov/) This is an FBI sponsored outreach organization that gathers cybercrime complaints and passes these tips to the local FBI offices in impacted areas.
 
 - [The National Center for Campus Public Safety](https://www.coehsem.com/training-library/). The mission is to bring together all forms of campus public safety, professional associations, advocacy organizations, community leaders, and others to improve and expand services to those who are charged with providing a safe environment on the campuses of the nation’s colleges and universities.
 
-Cyberbullying
+## Cyberbullying
 
 [SchoolSafety.gov](https://www.schoolsafety.gov/resource/how-prevent-cyberbullying-guide-parents-caregivers-and-youth) SchoolSafety.gov was created by the federal government to provide schools and districts with actionable recommendations to create safe and supportive learning environments for students and educators.
 
@@ -19,7 +19,7 @@ Cyberbullying
 
 [Internet Matters App Parental Guide](https://www.internetmatters.org/parental-controls/) Activate parental controls to manage children’s devices, apps and platforms, to give them safer online experiences.
 
-Sexting and Child Sexual Abuse Material
+## Sexting and Child Sexual Abuse Material
 
 [National Center for Missing and Exploited Children](https://www.missingkids.org/) The National Center for Missing & Exploited Children is a private, non-profit 501(c)(3) corporation whose mission is to help find missing children, reduce child sexual exploitation, and prevent child victimization. NCMEC works with families, victims, private industry, law enforcement, and the public to assist with preventing child abductions, recovering missing children, and providing services to deter and combat child sexual exploitation.
 
