@@ -21,7 +21,7 @@ List of Cybersecurity and other resources to keep people safe in the digital wor
 
 ## Sexting and Child Sexual Abuse Material
 
-[National Center for Missing and Exploited Children](https://www.missingkids.org/) The National Center for Missing & Exploited Children is a private, non-profit 501(c)(3) corporation whose mission is to help find missing children, reduce child sexual exploitation, and prevent child victimization. NCMEC works with families, victims, private industry, law enforcement, and the public to assist with preventing child abductions, recovering missing children, and providing services to deter and combat child sexual exploitation.
+- [National Center for Missing and Exploited Children](https://www.missingkids.org/) The National Center for Missing & Exploited Children is a private, non-profit 501(c)(3) corporation whose mission is to help find missing children, reduce child sexual exploitation, and prevent child victimization. NCMEC works with families, victims, private industry, law enforcement, and the public to assist with preventing child abductions, recovering missing children, and providing services to deter and combat child sexual exploitation.
 
-
-
+- [Tips for Parents on Combating Sexting] (https://www.icactaskforce.org/assets/ICAC%20Safer%20Internet%20Day%202021%20Sexting%20Tip%20for%20Parents-Youth.pdf)With both boys and girls involved in sexting behaviors, parents need to have age appropriate conversations with their children, beginning as soon as they have access to any technological device. Conversations with youth should include these sentiments with a clear follow up explanation as to why it is so important to NOT SEND, NOT ask others and NOT share sexually explicit images or 
+videos. 
