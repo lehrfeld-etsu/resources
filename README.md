@@ -34,10 +34,12 @@ videos.
 
 - [Internet Crime Complaint Center](https://www.ic3.gov/) The Internet Crime Complaint Center (IC3) is the central hub for reporting cyber-enabled crime. It is run by the FBI, the lead federal agency for investigating crime.
 
+- [Credit Freeze Information](https://www.usa.gov/credit-freeze) A credit freeze restricts access to your credit report. If you suspect your personal information or identity was stolen, placing a credit freeze can help protect you from fraud.
+
 ## General IT Help Resources
 
 - [SeniorPlanet from AARP](https://seniorplanet.org/) Senior Planet from AARP classes, articles, videos, and activities help older adults learn new skills, save money, exercise, make new friends, and so much more.
 
 - [Federal Trade Commission](https://consumer.ftc.gov/identity-theft-and-online-security/online-privacy-and-security) Understanding online privacy, how to protect your devices from hackers and threats, and how to avoid common online scams.
 
-- {Credit Freeze Information](https://www.usa.gov/credit-freeze) A credit freeze restricts access to your credit report. If you suspect your personal information or identity was stolen, placing a credit freeze can help protect you from fraud.
+
