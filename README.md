@@ -6,10 +6,12 @@ List of Cybersecurity and other resources to keep people safe in the digital wor
 - Contact your local law enforcement agency and have them fill out a report
 
 - [Credit Freeze Information](https://www.usa.gov/credit-freeze) A credit freeze restricts access to your credit report. If you suspect your personal information or identity was stolen, placing a credit freeze can help protect you from fraud.
-- 
+
 - [Internet Crime and Complaint Center](https://www.ic3.gov/) This is an FBI sponsored outreach organization that gathers cybercrime complaints and passes these tips to the local FBI offices in impacted areas.
 
 - [The National Center for Campus Public Safety](https://www.coehsem.com/training-library/). The mission is to bring together all forms of campus public safety, professional associations, advocacy organizations, community leaders, and others to improve and expand services to those who are charged with providing a safe environment on the campuses of the nation’s colleges and universities.
+
+- [CISA Stop Ransomware](https://www.cisa.gov/stopransomware) Ransomware is a form of malware designed to encrypt files on a device, rendering any files and the systems that rely on them unusable. Malicious actors then demand ransom in exchange for decryption. StopRansomware.gov is the U.S. Government's official one-stop location for resources to tackle ransomware more effectively.
 
 ## Cyberbullying
 
