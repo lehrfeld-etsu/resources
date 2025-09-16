@@ -42,4 +42,6 @@ videos.
 
 - [Federal Trade Commission](https://consumer.ftc.gov/identity-theft-and-online-security/online-privacy-and-security) Understanding online privacy, how to protect your devices from hackers and threats, and how to avoid common online scams.
 
+- [Malwarebytes](https://www.malwarebytes.com/) Very good malware scanner that inlcudes a capable free version.
+
 
